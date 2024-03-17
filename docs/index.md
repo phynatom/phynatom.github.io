@@ -1,6 +1,10 @@
 ---
 title: Home
 layout: home
+nav_order: 1
+has_children: true
+permalink: /index
+
 ---
 
 This website is to publish informations shared by the [Phythema][Phythema], [Nanomat][Nanomat], and the [TOM][TOM] joint group[^1].
