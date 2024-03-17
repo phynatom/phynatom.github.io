@@ -2,8 +2,8 @@
 layout: default
 title: software compilations
 nav_order: 1
-parent: /software
-permalink: /software/compilations
+parent: /softwares
+permalink: /softwares/compilations
 has_children: true
 ---
 

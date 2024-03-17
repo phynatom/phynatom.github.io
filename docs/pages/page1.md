@@ -8,7 +8,15 @@ permalink: page1
 
 # Test page1
 
-Test equation: $$\int_0^\infty \sin (x) dx$$
+Test inline equation: $\int_0^\infty \sin (x) dx$
+
+Test equation block
+
+```math
+ \int_0^\infty  \sin (x) dx 
+```
+
+$$\int_0^\infty  \sin (x) dx $$
 
 Test code:
 
