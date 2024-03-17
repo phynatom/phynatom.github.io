@@ -3,7 +3,7 @@ layout: default
 title: softwares
 nav_order: 2
 has_children: true
-permalink: /docs/softwares
+permalink: /softwares
 ---
 
 # UI Components
