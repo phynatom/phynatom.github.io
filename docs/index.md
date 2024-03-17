@@ -3,7 +3,7 @@ title: Home
 layout: home
 ---
 
-This website is to publish informations shared by the [Phythema][Phythema], [Nanomat][Nanomat], and the [TOM][TOM] joint group.
+This website is to publish informations shared by the [Phythema][Phythema], [Nanomat][Nanomat], and the [TOM][TOM] joint group[^1].
 
 Powered by [Just the Docs][Just the Docs].
 
